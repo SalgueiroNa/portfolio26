@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1680" viewBox="0 0 1400 1680" role="img" aria-label="Tu foto o pieza">
+  <rect width="1400" height="1680" fill="#E9D7CC"/>
+  <circle cx="1092" cy="504" r="252" fill="#C65A32"/><circle cx="280" cy="370" r="70" fill="#1B1915"/>
+  <rect x="0" y="1411" width="1400" height="269" fill="#FBF8F3"/>
+  <text x="40" y="1502" fill="#746C62" font-family="Georgia, serif" font-size="23" letter-spacing="2">PORTADA</text>
+  <text x="40" y="1578" fill="#1B1915" font-family="Georgia, serif" font-size="50">Tu foto o pieza</text>
+  <text x="40" y="1637" fill="#8A8278" font-family="Arial, Helvetica, sans-serif" font-size="18">assets/hero.svg</text>
+</svg>

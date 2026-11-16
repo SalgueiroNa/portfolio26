@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Cauce">
+  <rect width="1600" height="1000" fill="#D5E2DB"/>
+  <rect x="0" y="0" width="72" height="1000" fill="#3E5348"/><rect x="992" y="160" width="352" height="280" fill="#1B1915"/>
+  <rect x="0" y="840" width="1600" height="160" fill="#FBF8F3"/>
+  <text x="40" y="894" fill="#746C62" font-family="Georgia, serif" font-size="26" letter-spacing="2">PORTADA</text>
+  <text x="40" y="939" fill="#1B1915" font-family="Georgia, serif" font-size="57">Cauce</text>
+  <text x="40" y="974" fill="#8A8278" font-family="Arial, Helvetica, sans-serif" font-size="21">assets/proyectos/cauce/cover.svg</text>
+</svg>

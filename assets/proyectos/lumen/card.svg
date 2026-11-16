@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-label="Lumen">
+  <rect width="900" height="1125" fill="#E7E1D2"/>
+  <rect x="522" y="113" width="270" height="473" rx="28" fill="#C9A15B"/><rect x="90" y="203" width="252" height="18" rx="9" fill="#1B1915" fill-opacity="0.18"/><rect x="90" y="281" width="180" height="18" rx="9" fill="#1B1915" fill-opacity="0.1"/>
+  <rect x="0" y="945" width="900" height="180" fill="#FBF8F3"/>
+  <text x="40" y="1006" fill="#746C62" font-family="Georgia, serif" font-size="15" letter-spacing="2">CARRUSEL</text>
+  <text x="40" y="1057" fill="#1B1915" font-family="Georgia, serif" font-size="32">Lumen</text>
+  <text x="40" y="1096" fill="#8A8278" font-family="Arial, Helvetica, sans-serif" font-size="12">assets/proyectos/lumen/card.svg</text>
+</svg>

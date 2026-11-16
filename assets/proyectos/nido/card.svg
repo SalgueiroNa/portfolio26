@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-label="Nido">
+  <rect width="900" height="1125" fill="#E9D7CC"/>
+  <circle cx="702" cy="338" r="162" fill="#C65A32"/><circle cx="180" cy="248" r="45" fill="#1B1915"/>
+  <rect x="0" y="945" width="900" height="180" fill="#FBF8F3"/>
+  <text x="40" y="1006" fill="#746C62" font-family="Georgia, serif" font-size="15" letter-spacing="2">CARRUSEL</text>
+  <text x="40" y="1057" fill="#1B1915" font-family="Georgia, serif" font-size="32">Nido</text>
+  <text x="40" y="1096" fill="#8A8278" font-family="Arial, Helvetica, sans-serif" font-size="12">assets/proyectos/nido/card.svg</text>
+</svg>
